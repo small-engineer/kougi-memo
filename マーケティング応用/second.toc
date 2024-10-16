@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{STP}{3}{0}{1}
+\beamer@sectionintoc {2}{4P4C}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Product（Value）}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Price（Cost）}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Place（Convenience）}{6}{0}{2}
+\beamer@subsectionintoc {2}{4}{Promotion（Communication）}{6}{0}{2}
+\beamer@sectionintoc {3}{販売計画}{6}{0}{3}
